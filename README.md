@@ -21,8 +21,8 @@ ABCDE是一个使用Kotlin编写的OpenHarmony逆向工具包，目前已经实�
 ```shell
 ./gradlew :abcdecoder:packageReleaseUberJarForCurrentOS
 ```
-> 也可以去[github actions](https://github.com/Yricky/abcde/actions)
-> 中下载最新的构建
+> 也可以去[GitHub Releases](https://github.com/Yricky/abcde/releases)下载稳定版本，
+> 或去[GitHub Actions](https://github.com/Yricky/abcde/actions)中下载最新的构建
 
 ## 功能演示
 ### 主页面
